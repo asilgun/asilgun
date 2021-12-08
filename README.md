@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @asilgun
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ i love the sea
+- 📫 i enjoy my part
 
 <!---
 asilgun/asilgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
